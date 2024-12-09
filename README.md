@@ -7,7 +7,7 @@ hi! i do coding and studying stuff. the current projects im working on are:
 3. Solutionbook (yes, generic, i know) - books of solutions to textbooks which dont have solutions, aka me overengineering Margins (again)
 4. Trying to not lose my sanity!
 
-none of the above are available yet, (especially not #4. god knows i am on the verge of dropping out.) but luckily i'll be speedrunning developing Margins for my thesis project. it's due june 2025 so stay tuned my friends, enemies, and those who have yet to become either :3
+none of the above are available yet, (especially not #4. god knows i am on the verge of dropping out.) but luckily i'll be speedrunning developing Margins for my thesis project. it's due march 2025 so stay tuned my friends, enemies, and those who have yet to become either :3
 
 is this readme cring af? yea kinda. do i regret every single one of my decisions as a programmer? of course, who doesnt. but
 
